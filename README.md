@@ -18,7 +18,7 @@ Retrofit and RxJava,
 WorkManager, Sharing and Notifications
 
 
-![Intro Animation Activity](https://user-images.githubusercontent.com/83819683/142768967-a801ca04-e4c6-4c09-a7fb-58eac2e9f549.png
+https://user-images.githubusercontent.com/83819683/142768967-a801ca04-e4c6-4c09-a7fb-58eac2e9f549.png
 
 ![All Dishes Fragment](https://user-images.githubusercontent.com/83819683/142768987-d487925e-5d90-49c9-8aef-b349f57577cf.png)
 ![Dish Detail Activity](https://user-images.githubusercontent.com/83819683/142768992-38b9dd33-6a85-453d-941a-a42b425a4655.png)

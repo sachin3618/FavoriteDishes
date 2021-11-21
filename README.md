@@ -18,10 +18,13 @@ Retrofit and RxJava,
 WorkManager, Sharing and Notifications
 
 
-![Add Dish Activity](https://user-images.githubusercontent.com/83819683/142768888-0bb5ebb5-032d-4aa8-bba2-3aac8924d838.png)
-![All Dishes Fragment](https://user-images.githubusercontent.com/83819683/142768892-df233965-78dd-416d-bc7b-befd13eeb7d8.png)
-![Dish Detail Activity](https://user-images.githubusercontent.com/83819683/142768895-fc396056-58cd-4cb8-bb3c-864e010531de.png)
-![Edit and Delete Dish Dialog](https://user-images.githubusercontent.com/83819683/142768896-daf49314-8ffc-42bb-b357-4c2d822abe54.png)
-![Filter Dialog](https://user-images.githubusercontent.com/83819683/142768897-bbea942d-684d-4903-a025-65540db7c818.png)
-![Intro Animation Activity](https://user-images.githubusercontent.com/83819683/142768898-39a0ed5e-bec9-46d7-b0e5-ad2c04251a25.png)
+![Intro Animation Activity](https://user-images.githubusercontent.com/83819683/142768967-a801ca04-e4c6-4c09-a7fb-58eac2e9f549.png
+![All Dishes Fragment](https://user-images.githubusercontent.com/83819683/142768987-d487925e-5d90-49c9-8aef-b349f57577cf.png)
+![Dish Detail Activity](https://user-images.githubusercontent.com/83819683/142768992-38b9dd33-6a85-453d-941a-a42b425a4655.png)
+)
+![Filter Dialog](https://user-images.githubusercontent.com/83819683/142768997-b4ecd392-5023-4e82-aa2a-c4e58e24f61e.png)
+![Edit and Delete Dish Dialog](https://user-images.githubusercontent.com/83819683/142769012-cb6c04ae-9546-4488-9cdc-bde2c8cd18c3.png)
+![Add Dish Activity](https://user-images.githubusercontent.com/83819683/142769019-880cba49-0e2f-4c4c-8c40-60b7367902c3.png)
+
+
 
